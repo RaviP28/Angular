@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Rare Green Gem",
+        "price": 10000.00,
+        "description": "This gem is the one and only gem that out shines all the gems and that is why this gem is a rare gem.", 
+        "canPurchase": true,
+        "soldout": false,
+        "images": [
+            {
+                "full": "images/Rare Green Gem-01-full.jpg",
+                "thumb": "images/Rare Green Gem-01-thumb.jpg",
+            }
+        ],
+        "reviews": [
+        {
+            "stars": 5,
+            "author": "Ravi@Patel.com"
+            "body": "I love this product!",
+        },
+        {
+            "stars": 1,
+            "author": "Thisguy@sucks.com"
+            "body": "This product sucks",
+        }
+        ]
+    },
+     {
+        "name": "Red Gem",
+        "price": 1999.99,
+        "description": "This gem is the most common gem found but still shines like any gem.", 
+        "canPurchase": true,
+        "soldout": false,
+        "images": [
+            {
+                "full": "images/Red Gem-02-full.jpg",
+                "thumb": "images/Red Gem-o2-thumb.jpg",
+            }
+        ]
+    },
+     {  
+        
+        "name": "Blue Gem",
+        "price": 999.99,
+        "description": "This gem is the most common gem found but still shines like any gem.", 
+        "canPurchase": true,
+        "soldout": false,
+        "images": [
+            {
+                "full": "images/Blue Gem-03-full.jpg",
+                "thumb": "images/Blue Gem-03-thumb.jpg",
+            }
+        ]
+    },
+    {
+        "name": "Gold Gem",
+        "price": 500.00,
+        "description": "This gem is the most common gem found but still shines like any gem.", 
+        "canPurchase": true,
+        "soldout": false,
+        "images": [
+            {
+                "full": "images/Gold Gem-04-full.jpg",
+                "thumb": "images/Gold Gem-04-thumb.jpg",
+            }
+    ]
+    }
+]
